@@ -1,0 +1,4 @@
+/home/Vlad/FedoraProject/obj/Debug/net8.0/FedoraProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/Vlad/FedoraProject/obj/Debug/net8.0/FedoraProject.AssemblyInfoInputs.cache
+/home/Vlad/FedoraProject/obj/Debug/net8.0/FedoraProject.AssemblyInfo.cs
+/home/Vlad/FedoraProject/obj/Debug/net8.0/FedoraProject.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/home/Vlad/FedoraProject/bin/Debug/net9.0/FedoraProject
+/home/Vlad/FedoraProject/bin/Debug/net9.0/FedoraProject.deps.json
+/home/Vlad/FedoraProject/bin/Debug/net9.0/FedoraProject.runtimeconfig.json
+/home/Vlad/FedoraProject/bin/Debug/net9.0/FedoraProject.dll
+/home/Vlad/FedoraProject/bin/Debug/net9.0/FedoraProject.pdb
+/home/Vlad/FedoraProject/obj/Debug/net9.0/FedoraProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/Vlad/FedoraProject/obj/Debug/net9.0/FedoraProject.AssemblyInfoInputs.cache
+/home/Vlad/FedoraProject/obj/Debug/net9.0/FedoraProject.AssemblyInfo.cs
+/home/Vlad/FedoraProject/obj/Debug/net9.0/FedoraProject.csproj.CoreCompileInputs.cache
+/home/Vlad/FedoraProject/obj/Debug/net9.0/FedoraProject.dll
+/home/Vlad/FedoraProject/obj/Debug/net9.0/refint/FedoraProject.dll
+/home/Vlad/FedoraProject/obj/Debug/net9.0/FedoraProject.pdb
+/home/Vlad/FedoraProject/obj/Debug/net9.0/FedoraProject.genruntimeconfig.cache
+/home/Vlad/FedoraProject/obj/Debug/net9.0/ref/FedoraProject.dll
