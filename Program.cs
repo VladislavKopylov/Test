@@ -22,6 +22,7 @@ public static class Kata
             multiplier = (multiplier * 2) % MOD;
         }
         long sum = numbers.Sum() - max + (max * multiplier % MOD);
+        Console.WriteLine("Toxicity")
         return sum % MOD;
     }
 }
