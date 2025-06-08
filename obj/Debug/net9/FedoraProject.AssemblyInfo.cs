@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FedoraProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203b0e19c6eec6a0bd8304b5bcd4226e41be900e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be490ba96e1e023ffeaddf156a727b0df37d694f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FedoraProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FedoraProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
